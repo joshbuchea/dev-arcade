@@ -12,7 +12,7 @@ Play Games, Level Up
 - [ ] Add New Themes (Retro, ?)
 - [ ] Add Easter Egg(s)? (Cheat Codes, Console Message, ?)
 - [ ] Add "built with" link ("Built with Gatsby, hosted on Netlify")?
-- [ ] Enable Google Analytics ***
+- [x] Enable Google Analytics
 - [x] Re-link with Netlify (also update netlify badge in README)
 - [x] Re-initialize Repo
 - [x] Tidy Up (Remove pages/images, remove comments, clean up styles, etc.)

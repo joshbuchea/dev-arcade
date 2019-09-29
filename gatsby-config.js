@@ -25,11 +25,11 @@ module.exports = {
       },
     },
     'gatsby-plugin-twitter',
-    // {
-    //   resolve: 'gatsby-plugin-google-analytics',
-    //   options: {
-    //     trackingId: 'UA-148807247-1'
-    //   }
-    // },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-148807247-1'
+      }
+    },
   ]
 }
