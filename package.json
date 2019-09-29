@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "dev-arcade",
+  "version": "1.0.0-0",
+  "description": "Play Games, Level Up",
+  "scripts": {
+    "start": "gatsby develop -H 0.0.0.0",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve -H 0.0.0.0"
+  },
+  "author": "Josh Buchea",
+  "license": "MIT",
+  "dependencies": {
+    "@theme-ui/prism": "^0.2.29",
+    "gatsby": "^2.13.83",
+    "gatsby-image": "^2.2.21",
+    "gatsby-plugin-catch-links": "^2.1.5",
+    "gatsby-plugin-google-analytics": "^2.1.11",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-sharp": "^2.2.25",
+    "gatsby-plugin-twitter": "^2.1.4",
+    "gatsby-theme-jxnblk": "file:theme",
+    "gatsby-transformer-sharp": "^2.2.17",
+    "jxnblk": "^1.4.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1",
+    "react-icons": "^3.7.0"
+  }
+}
