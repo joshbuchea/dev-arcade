@@ -3,7 +3,7 @@
 
 Play Games, Level Up
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/acbef4e6-d97d-4cd8-b7e7-675d2890999d/deploy-status)](https://app.netlify.com/sites/joshbuchea/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6a70f9-1238-4198-9b3e-d75eedc6a532/deploy-status)](https://app.netlify.com/sites/joshbuchea/deploys)
 
 ## :memo: TODO
 
@@ -13,7 +13,7 @@ Play Games, Level Up
 - [ ] Add Easter Egg(s)? (Cheat Codes, Console Message, ?)
 - [ ] Add "built with" link ("Built with Gatsby, hosted on Netlify")?
 - [ ] Enable Google Analytics ***
-- [ ] Re-link with Netlify (also update netlify badge in README) ***
+- [x] Re-link with Netlify (also update netlify badge in README)
 - [x] Re-initialize Repo
 - [x] Tidy Up (Remove pages/images, remove comments, clean up styles, etc.)
 - [x] Choose URL (Netlify?, Custom Domain?)
