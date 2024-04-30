@@ -153,15 +153,13 @@ export default props => {
           <div sx={{ my: 2 }}>
             Made by{` `}
             <a
-              href='https://twitter.com/joshbuchea'
+              href="https://joshbuchea.com/"
               rel="noopener noreferrer"
               sx={{
                 variant: 'styles.navitem',
               }}
-              target="_blank"
-              title="View Source"
-            >
-              @joshbuchea
+              target="_blank">
+              Josh Buchea
             </a>
           </div>
         </div>
