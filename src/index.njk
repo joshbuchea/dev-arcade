@@ -12,15 +12,15 @@ description: Play Games, Level Up
 <div class="games">
   {%- for game in games %}
   <a
-    href="{{ game.url }}"
     class="game"
-    target="_blank"
+    href="{{ game.url }}"
     rel="noopener noreferrer"
+    target="_blank"
   >
     <img
-      src="images/{{ game.image }}"
       alt="{{ game.title }} screenshot"
       class="game-image"
+      src="images/{{ game.image }}"
     />
     {{ game.title }}
   </a>
