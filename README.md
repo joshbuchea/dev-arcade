@@ -28,6 +28,10 @@ yarn run build
 
 The built site will be in the `_site` directory.
 
+### Screenshots
+
+Images are 1280x800 PNGs, and are stored in `src/images/`. They are referenced in `src/_data/games.json`.
+
 ## :memo: TODO
 
 - [ ] Add Avatar/Logo?
