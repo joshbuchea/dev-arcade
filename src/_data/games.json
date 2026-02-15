@@ -10,6 +10,11 @@
     "image": "cssbattle-screenshot.png"
   },
   {
+    "title": "Color",
+    "url": "https://color.method.ac/",
+    "image": "color-screenshot.png"
+  },
+  {
     "title": "CSS Diner",
     "url": "https://flukeout.github.io/",
     "image": "cssdiner-screenshot.png"
@@ -55,6 +60,11 @@
     "image": "interactivevim-screenshot.png"
   },
   {
+    "title": "Kern Type",
+    "url": "https://type.method.ac/",
+    "image": "kern-type-screenshot.png"
+  },
+  {
     "title": "Mentored.dev",
     "url": "https://mentored.dev/",
     "image": "mentoreddev-screenshot.png"
@@ -65,9 +75,29 @@
     "image": "pixactly-screenshot.png"
   },
   {
+    "title": "Regex Crossword",
+    "url": "https://regexcrossword.com/",
+    "image": "regex-crossword-screenshot.png"
+  },
+  {
+    "title": "RegexOne",
+    "url": "https://regexone.com/",
+    "image": "regexone-screenshot.png"
+  },
+  {
     "title": "Ruby Warrior",
     "url": "https://www.bloc.io/ruby-warrior/",
     "image": "rubywarrior-screenshot.png"
+  },
+  {
+    "title": "Shape Type",
+    "url": "https://shape.method.ac/",
+    "image": "shape-type-screenshot.png"
+  },
+  {
+    "title": "The Bézier Game",
+    "url": "https://bezier.method.ac/",
+    "image": "bezier-game-screenshot.png"
   },
   {
     "title": "TwilioQuest",
