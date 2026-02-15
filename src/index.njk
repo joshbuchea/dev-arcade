@@ -1,0 +1,28 @@
+---
+layout: layout.njk
+title: Play Games, Level Up
+description: Play Games, Level Up
+---
+
+<div class="banner">
+  <h1>Dev Arcade</h1>
+  <p>Play Games, Level Up</p>
+</div>
+
+<div class="games">
+  {%- for game in games %}
+  <a
+    href="{{ game.url }}"
+    class="game"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="images/{{ game.image }}"
+      alt="{{ game.title }} screenshot"
+      class="game-image"
+    />
+    {{ game.title }}
+  </a>
+  {%- endfor %}
+</div>

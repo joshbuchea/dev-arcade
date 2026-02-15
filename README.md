@@ -1,9 +1,32 @@
-
 # :joystick: Dev Arcade
 
 Play Games, Level Up
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d6a70f9-1238-4198-9b3e-d75eedc6a532/deploy-status)](https://app.netlify.com/sites/joshbuchea/deploys)
+
+## Development
+
+This site is built with [Eleventy](https://www.11ty.dev/).
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run development server
+
+```bash
+npm start
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+The built site will be in the `_site` directory.
 
 ## :memo: TODO
 
@@ -11,7 +34,7 @@ Play Games, Level Up
 - [ ] Add Music?
 - [ ] Add New Themes (Retro, ?)
 - [ ] Add Easter Egg(s)? (Cheat Codes, Console Message, ?)
-- [ ] Add "built with" link ("Built with Gatsby, hosted on Netlify")?
+- [x] Convert from Gatsby to Eleventy
 - [x] Enable Google Analytics
 - [x] Re-link with Netlify (also update netlify badge in README)
 - [x] Re-initialize Repo
