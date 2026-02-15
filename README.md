@@ -11,19 +11,19 @@ This site is built with [Eleventy](https://www.11ty.dev/).
 ### Install dependencies
 
 ```bash
-npm install
+yarn install
 ```
 
 ### Run development server
 
 ```bash
-npm start
+yarn start
 ```
 
 ### Build for production
 
 ```bash
-npm run build
+yarn run build
 ```
 
 The built site will be in the `_site` directory.
