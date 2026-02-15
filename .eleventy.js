@@ -1,9 +1,6 @@
 module.exports = function (eleventyConfig) {
-  // Copy images to output (now in src/images)
-  eleventyConfig.addPassthroughCopy("src/images");
-
-  // Copy static files to output (now in src/static)
-  eleventyConfig.addPassthroughCopy("src/static");
+  // Copy everything from src/static to root of _site (not processed)
+  eleventyConfig.addPassthroughCopy({"src/static": "."});
 
   return {
     dir: {
