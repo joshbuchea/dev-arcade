@@ -2,7 +2,7 @@
 
 Play Games, Level Up
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6a70f9-1238-4198-9b3e-d75eedc6a532/deploy-status)](https://app.netlify.com/sites/joshbuchea/deploys)
+[![Deploy to GitHub Pages](https://github.com/joshbuchea/dev-arcade/actions/workflows/deploy.yml/badge.svg)](https://github.com/joshbuchea/dev-arcade/actions/workflows/deploy.yml)
 
 ## Development
 
@@ -27,6 +27,10 @@ yarn run build
 ```
 
 The built site will be in the `_site` directory.
+
+### Deployment
+
+Pushes to `master` are built and deployed to GitHub Pages by the [deploy workflow](.github/workflows/deploy.yml).
 
 ### Screenshots
 
