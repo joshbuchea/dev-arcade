@@ -42,17 +42,6 @@ Images are 1280x800 PNGs, and are stored in `src/images/`. They are referenced i
 - [ ] Add Music?
 - [ ] Add New Themes (Retro, ?)
 - [ ] Add Easter Egg(s)? (Cheat Codes, Console Message, ?)
-- [x] Convert from Gatsby to Eleventy
-- [x] Enable Google Analytics
-- [x] Re-link with Netlify (also update netlify badge in README)
-- [x] Re-initialize Repo
-- [x] Tidy Up (Remove pages/images, remove comments, clean up styles, etc.)
-- [x] Choose URL (Netlify?, Custom Domain?)
-- [x] Add Arcade Styled/Themed Font
-- [x] Add License (MIT, Sharing License?)
-- [x] Add GitHub/"View Source" link
-- [x] Add "made by" link (Twitter)
-- [x] Test on Large Screen
 
 Potential Colors for Retro Theme:
 
